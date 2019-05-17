@@ -1,0 +1,31 @@
+body{
+  background-color:#b7fbff;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-style:dotted none none none;
+  border-width:5px;
+  border-color: grey;
+   height:0px;}
+   img{
+     height:250Px;
+     width: 250px;
+   }
+   h1,h2,h3{
+     color: #866ec7;
+   }
+a{
+  padding-right:20px;
+}
+button{
+  background-color: #4CAF50; /* Green */
+ border: none;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+}
+p{
+  line-height: 2;
+}

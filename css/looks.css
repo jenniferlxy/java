@@ -1,0 +1,23 @@
+h1{
+  color:red;
+  font-size:100px;
+  font-family:cursive;
+}
+
+img:hover{
+  background-color: yellow;
+}
+
+
+.bacon{
+  background-color: green;
+}
+.avocado{
+  background-color: red;
+}
+.circuls{
+  border-radius: 100%;
+}
+#heading{
+  color:blue;
+}
