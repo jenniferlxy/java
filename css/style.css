@@ -10,6 +10,7 @@ hr{
    img{
      height:250Px;
      width: 250px;
+      border-radius: 100%;
    }
    h1,h2,h3{
      color: #866ec7;
